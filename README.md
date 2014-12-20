@@ -15,7 +15,6 @@
   * https://david-dm.org
   * https://gemnasium.com/
 
-
 ## Ideas
 
   * amount of downloads last day, week, month
