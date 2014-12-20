@@ -8,7 +8,6 @@
   * add github auth. we can send notification to owner that deps were outdated.
   * add checks for alpha/beta versions, snapshots
 
-
 ## Inspirations
 
   * https://github.com/xsc/ancient-clj
